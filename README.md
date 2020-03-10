@@ -1,2 +1,2 @@
-# SolidWorks-oncrete-mixer
+# SolidWorks-сoncrete-mixer
 SolidWorks (SLDPRT). Concrete mixer.
